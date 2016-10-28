@@ -1,4 +1,4 @@
-Copyright (c) 2016 Robert Joseph, Ph.D., [drteachme.com](http://drteachme.com
+Copyright (c) 2016 Robert Joseph, Ph.D., [drtechtalk.com](http://drtechtalk.com)
 
  Permission is hereby granted, free of charge, to any person obtaining a copy
  of this software and associated documentation files (the "Software"), to deal

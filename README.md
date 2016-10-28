@@ -8,4 +8,6 @@ Here is the description<br>
 
 Use the sample code to build your custom sidebar. Please email me with any enhancements, thoughts or places that this helped.<br><br>
 
+![alt tag](https://github.com/vizmotion/jupyter-navigation/blob/master/notebook.png)
+
 All the best and thanks.
